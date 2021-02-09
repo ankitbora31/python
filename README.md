@@ -1,2 +1,2 @@
-# python
+# eckovation//python
 eckovation python assignments
